@@ -1,3 +1,6 @@
+You can see this site on Render site with this address: https://movieapi-8bs7.onrender.com
+
+
 # Movie Discovery
 
 Movie Discovery is a web application designed to provide users with a Netflix-like experience for discovering movies. By leveraging The Movie Database (TMDb) API, users can fetch movies based on genre, actor, rating, and other criteria. This project aims to create a unique and interactive platform for users to explore and interact with movie data.
